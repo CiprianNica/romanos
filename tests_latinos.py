@@ -1,5 +1,5 @@
 import unittest
-from romanos import *
+from romanos import convertir, descomponer, entero_a_romano
 
 class RomanosTest(unittest.TestCase):
     def test_descomponer(self):
